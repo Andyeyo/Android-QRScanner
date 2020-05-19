@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.nisrulz:qreader:2.1.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4e6b19dce17394fc3af596f64387ee06/jetified-qreader-2.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4e6b19dce17394fc3af596f64387ee06/jetified-qreader-2.1.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.nisrulz/qreader/2.1.2/c783b00d2532cf79ad13ee93389cc68d7216c907/qreader-2.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.nisrulz/qreader/2.1.2/80199ffc86f0a77ebe3deb464de1c68f6d0ba5c0/qreader-2.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
